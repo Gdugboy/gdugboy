@@ -5,10 +5,6 @@
 <br />
 <br />
 <br />
-## My values
---
-<br />
-<br />
 <br />
 ## How i work
 재밌는 것만 합니다
