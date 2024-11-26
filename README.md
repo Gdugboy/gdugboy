@@ -1,5 +1,3 @@
-<img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdugboy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## startupcode / 스타트업코드
@@ -19,6 +17,7 @@
 <br />
 ## Skills
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
