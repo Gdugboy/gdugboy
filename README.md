@@ -1,5 +1,7 @@
 <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdugboy)](https://github.com/anuraghazra/github-readme-stats)
+
 ## startupcode / 스타트업코드
 안녕하세요 Jerry 입니다
 <br />
