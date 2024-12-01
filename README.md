@@ -6,11 +6,6 @@
 <br />
 <br />
 <br />
-## How i work
-재밌는 것만 합니다
-<br />
-<br />
-<br />
 ## Skills
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
