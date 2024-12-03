@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdugboy)](https://github.com/anuraghazra/github-readme-stats)
 
-## startupcode / 스타트업코드
+## KTB 클라우드 네이티브 제주 2기
 안녕하세요 Jerry 입니다
 <br />
 <br />
