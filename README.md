@@ -1,5 +1,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdugboy)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Gdugboy&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Gdugboy?pet-id=686800084522595274"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ## KTB 클라우드 네이티브 제주 2기
 안녕하세요 Jerry 입니다
 <br />
