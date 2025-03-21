@@ -37,4 +37,3 @@
 <br />
 <br />
 
-Copyright ⓒ startupcode yaro
