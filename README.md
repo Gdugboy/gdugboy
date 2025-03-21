@@ -8,14 +8,15 @@
   />
 </a>
   
-
-
 ## 안녕하세요 Jerry 입니다
+
 <br />
 <br />
 <br />
 <br />
+
 ## Skills
+
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
