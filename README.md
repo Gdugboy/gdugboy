@@ -6,7 +6,7 @@
 />
 </a>
 
-### 👋 About Me
+## 👋 About Me
 - 이름: 박경승 (Jerry.Park)
 - Email: gdugboy@gmail.com
 - GitHub: [github.com/Gdugboy](https://github.com/Gdugboy)
@@ -14,13 +14,13 @@
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 - 강원대학교 정보통신공학과 (2019.02 ~ 2025.02 졸업)
 - 카카오테크 부트캠프 클라우드 엔지니어링 제주 2기 (2024.10 ~ 2025.05 수료 예정)
 
 ---
 
-### 💡 Skills
+## 💡 Skills
 
 #### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
