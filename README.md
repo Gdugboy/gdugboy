@@ -1,7 +1,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Gdugboy&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Gdugboy"
-  width="600"
+  width="1200"
   height="300"
 />
 </a>
@@ -55,5 +55,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdugboy&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gdugboy&show_icons=true&theme=default)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdugboy&theme=dark)](https://github.com/gdugboy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdugboy&theme=dark)](https://github.com/gdugboy)
