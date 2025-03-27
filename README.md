@@ -6,10 +6,6 @@
 />
 </a>
 
-<a href="https://github.com/Gdugboy">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Jerry!&fontSize=40&animation=fadeIn" />
-</a>
-
 ### 👋 About Me
 - 이름: 박경승 (Jerry.Park)
 - Email: gdugboy@gmail.com
