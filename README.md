@@ -7,7 +7,7 @@
 </a>
 
 ## 👋 About Me
-- 이름: 박경승 (Jerry.Park)
+### 박경승 (Jerry.Park)
 - Email: gdugboy@gmail.com
 - GitHub: [github.com/Gdugboy](https://github.com/Gdugboy)
 - 관심 분야: 백엔드 개발, IoT 기반 서비스, 팀 협업
