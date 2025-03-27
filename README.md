@@ -57,3 +57,5 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdugboy&theme=dark)](https://github.com/gdugboy)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdugboy&theme=dark)](https://github.com/gdugboy)
+---
+📄 Copyright 2025 © Jerry Park. This README was last updated in 2025.
