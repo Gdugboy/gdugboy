@@ -5,12 +5,6 @@
   height="300"
 />
 </a>
-
-<iframe
-  title='disquiet-badge'
-  frameBorder="0"
-  src='https://badge.disquiet.io/vote-badge?productUrlSlug=강아지도&mode=dark'
-/>
   
 ## 👋 About Me
 ### 박경승 (Jerry.Park)
