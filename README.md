@@ -10,7 +10,6 @@
 ### 박경승 (Jerry.Park)
 - Email: gdugboy@gmail.com
 - GitHub: [github.com/Gdugboy](https://github.com/Gdugboy)
-- 관심 분야: 백엔드 개발, IoT 기반 서비스, 팀 협업
 - 문제 해결을 즐기며, 적극적인 의사소통과 팀워크를 통해 함께 성장하는 개발 문화를 지향합니다.  
 - 단순한 개발을 넘어 사용자의 관점에서 생각하고, 소프트 스킬을 바탕으로 협업과 조율에 강점을 가지고 있습니다.
 
