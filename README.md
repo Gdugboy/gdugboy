@@ -6,7 +6,6 @@
 />
 </a>
   
-## 👋 About Me
 ### 박경승 (Jerry.Park)
 - Email: gdugboy@gmail.com
 - GitHub: [github.com/Gdugboy](https://github.com/Gdugboy)
