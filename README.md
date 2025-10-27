@@ -14,7 +14,23 @@
 
 ## 🎓 Education
 - 강원대학교 정보통신공학과 (2019.02 ~ 2025.02 졸업)
-- 카카오테크 부트캠프 클라우드 엔지니어링 in Jeju 2기 (2024.10 ~ 2025.05)
+- 카카오테크 부트캠프 클라우드 네이티브a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Gdugboy&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Gdugboy"
+  width="1200"
+  height="300"
+/>
+</a>
+  
+### 박경승 (Jerry.Park)
+- Email: gdugboy@gmail.com
+- GitHub: [github.com/Gdugboy](https://github.com/Gdugboy)
+
+---
+
+## 🎓 Education
+- 강원대학교 정보통신공학과 (2019.02 ~ 2025.02 졸업)
+- 카카오테크 부트캠프 클라우드 네이티브 in Jeju 2기 (2024.10 ~ 2025.05)
 
 ---
 
