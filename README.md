@@ -16,10 +16,6 @@
 - 강원대학교 정보통신공학과 (2019.02 ~ 2025.02 졸업)
 - 카카오테크 부트캠프 클라우드 네이티브
   
-### 박경승 (Jerry.Park)
-- Email: gdugboy@gmail.com
-- GitHub: [github.com/Gdugboy](https://github.com/Gdugboy)
-
 ---
 
 ## 🎓 Education
